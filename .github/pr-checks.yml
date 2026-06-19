@@ -1,0 +1,22 @@
+name: Verificações da Pull Request
+
+on:
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  verifica-conflitos:
+    name: Verifica marcadores de conflito
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Procurar marcadores de conflito não resolvidos
+        run: |
+          if grep -rnE '^(<{7}|={7}$|>{7})' --include="*.md" .; then
+            echo "Foram encontrados marcadores de conflito não resolvidos."
+            exit 1
+          else
+            echo "Nenhum marcador de conflito encontrado."
+          fi
