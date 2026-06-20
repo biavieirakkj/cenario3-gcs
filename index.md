@@ -40,6 +40,7 @@ Trabalhamos com a ideia de que uma boa refeição também cria memória, convers
 |---|---|---|
 | Frango com quiabo da vó | Receita de família, cozido lentamente, servido com arroz branco e pirão. | R$ 32 |
 | Picadinho de domingo | Carne cozida no ponto, legumes da estação e arroz soltinho. | R$ 46 |
+| Frango Xadrez | Iscas de frango ao molho teriyaki, cenoura, repolho, amendoim e arroz soltinho. | R$ 46 |
 
 ### Bebidas
 
