@@ -64,7 +64,7 @@ Trabalhamos com produtores locais, sem pressa, do jeito que comida de verdade pr
 ## Contato
 
 **Endereço:** Rua das Acácias, 123 — Centro  
-**Horário:** Terça a domingo, 11h às 22h  
+**Horário:** Terça a domingo, 11h às 00h  
 **Telefone:** (67) 99999-0000  
 **E-mail:** contato@saborcaseiro.exemplo  
 
