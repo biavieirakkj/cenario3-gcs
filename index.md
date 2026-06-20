@@ -42,7 +42,7 @@ Trabalhamos com produtores locais, sem pressa, do jeito que comida de verdade pr
 
 | Prato | Descrição | Preço |
 |---|---|---|
-| Frango com quiabo da vó | Receita de família, cozido lentamente, servido com arroz branco e pirão. | R$ 42 |
+| Frango com quiabo da vó | Receita de família, cozido lentamente, servido com arroz branco e pirão. | R$ 32 |
 | Picadinho de domingo | Carne cozida no ponto, legumes da estação e arroz soltinho. | R$ 46 |
 
 ### Bebidas
