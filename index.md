@@ -35,8 +35,8 @@ Trabalhamos com produtores locais, sem pressa, do jeito que comida de verdade pr
 
 | Prato | Descrição | Preço |
 |---|---|---|
-| Pão de alho da casa | Pão artesanal, manteiga de alho assada lentamente e ervas frescas. | R$ 18 |
-| Bolinho de feijoada | Feijoada da casa transformada em bolinhos crocantes, com farofa por dentro. | R$ 24 |
+| Pão de alho da casa | Pão artesanal assado na hora, servido com manteiga de alho cremosa e ervas frescas selecionadas. | R$ 18 |
+| Bolinho de feijoada | Bolinhos crocantes recheados com feijoada da casa, acompanhados de farofa temperada especial.    | R$ 24 |
 
 ### Pratos principais
 
