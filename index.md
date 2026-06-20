@@ -17,15 +17,11 @@ Receitas de família, ingredientes frescos e aquele tempero que só existe na co
 
 ## Sobre
 
-**Uma cozinha de família, aberta para todos.**
+**Uma cozinha simples, familiar e feita para aproximar pessoas.**
 
-O Sabor Caseiro nasceu de uma ideia simples: recriar, em forma de restaurante, o cheirinho de comida boa que vinha da cozinha da vó nos domingos de família. Cada prato é preparado como se fosse para alguém querido — porque, no fundo, é.
+O Sabor Caseiro é um restaurante fictício criado para representar um espaço acolhedor, com refeições inspiradas em receitas de família e ingredientes frescos. A proposta é oferecer uma experiência próxima da comida feita em casa, valorizando o cuidado no preparo, o atendimento simples e o sabor tradicional.
 
-Trabalhamos com produtores locais, sem pressa, do jeito que comida de verdade precisa ser feita.
-
-- 20+ anos de receitas de família
-- 100% ingredientes frescos do dia
-- 6 pratos novos por semana
+Trabalhamos com a ideia de que uma boa refeição também cria memória, conversa e sensação de pertencimento.
 
 ---
 
